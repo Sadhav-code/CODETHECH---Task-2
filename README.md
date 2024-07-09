@@ -1,4 +1,4 @@
-CODETECH Task 1
+CODETECH Task 2
 
     Name - Sadhav Singh
     Company - CODTECH IT SOLUTIONS
